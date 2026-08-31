@@ -1,1 +1,2 @@
-
+Nesta pasta se encontram os arquivos: PDF do trabalho prático com prints e código limpo,
+juntamente do arquivo de código completo para substituição no projeto.
