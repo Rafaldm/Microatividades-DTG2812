@@ -1,1 +1,2 @@
 Aqui estão todos arquivos separadamente, referente a cada microatividade que foi realizada.
+Caso queira testar, copie e cole o conteúdo do arquivo e adicione ao código da pasta principal.
